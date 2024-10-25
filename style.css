@@ -5,11 +5,6 @@
 .texto-rosa {color: rgb(214, 26, 189);
 }
 
-
-.texto-derecha {
-  text-align: right;
-}
-
 .tipografia {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 30px;
